@@ -74,7 +74,7 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
       <b>Name:</b> Ahmed ALqattawi<br />
       <b>Email:</b> <a href="mailto:AhmdAlqattawi208@gmail.com">AhmdAlqattawi208@gmail.com</a><br />
       <b>Phone:</b> <a href="https://wa.me/201225760963">+20 122 576 0963</a><br />
-      <b>linked In:</b> <a href="https://www.linkedin.com/in/ahmed-al-qattawi-19893630aL">Ahmed ALqattawi</a>
+      <b>linked In:</b> <a href="https://www.linkedin.com/in/ahmed-al-qattawi-19893630a">Ahmed ALqattawi</a>
     </td>
         <td align="center" valign="top" width="300px">
       <img src="https://ui-avatars.githubusercontent.com/api/?name=Roaa+Abd+Elbar&background=random" width="120px" style="border: 2px solid #000;" alt="ROAA"/><br />
