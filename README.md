@@ -1,41 +1,41 @@
-# 🛒 E-Commerce Sales Analysis Project
-
-### 📌 التنقل السريع:
-* [👥 تفاصيل الفريق (Team)](#-تفاصيل-الفريق-team)
-* [📊 فكرة المشروع (Concept)](#-فكرة-المشروع-concept)
+# 🛒 E-Commerce Sales Analysis
+## 🌌 Pentalyze
+> **"We quantify the future."**
 
 ---
 
+### 📍 Quick Navigation:
+* [🖐️ Meet The Pentalyzers](#-meet-the-pentalyzers)
+* [📊 Project Intelligence](#-project-intelligence)
+
 <br><br><br><br><br><br><br><br><br><br>
 
-## 👥 تفاصيل الفريق (Team)
-> القسم ده مخصص لتنظيم الشغل بين أعضاء الفريق.
+## 🖐️ Meet The Pentalyzers
+<div align="left">
+  <a href="https://github.com/USER1"><img src="https://github.com/USER1.png" width="65px" style="border-radius:50%; border: 2px solid #00d4ff;" title="Data Curator"/></a>
+  <a href="https://github.com/USER2"><img src="https://github.com/USER2.png" width="65px" style="border-radius:50%; border: 2px solid #00d4ff;" title="Data Analyst"/></a>
+  <a href="https://github.com/USER3"><img src="https://github.com/USER3.png" width="65px" style="border-radius:50%; border: 2px solid #00d4ff;" title="Viz Wizard"/></a>
+  <a href="https://github.com/USER4"><img src="https://github.com/USER4.png" width="65px" style="border-radius:50%; border: 2px solid #00d4ff;" title="Data Modeling"/></a>
+  <a href="https://github.com/USER5"><img src="https://github.com/USER5.png" width="65px" style="border-radius:50%; border: 2px solid #00d4ff;" title="Insights Storyteller"/></a>
+</div>
 
-| العضو | الدور / المهمة | الحالة |
+### 🛠️ The Specialized Five:
+| # | Role | Mission |
 | :--- | :--- | :--- |
-| **[امجد]** | Data Analyst (Excel & SQL) | 🏗️ شغال على التخطيط |
-| **[روميساء]** | Data Cleaning | ⏳ في الانتظار |
-| **[احمد]** | Dashboard Design | ⏳ في الانتظار |
+| 1 | **Data Curator** | Refining raw chaos into structured data. |
+| 2 | **Data Analyst** | Extracting the core KPIs and trends. |
+| 3 | **Viz Wizard** | Designing the visual narrative. |
+| 4 | **Data Modeling** | Engineering the relational architecture. |
+| 5 | **Storyteller** | Converting numbers into strategic actions. |
 
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 
 ---
 
-## 📊 فكرة المشروع (Concept)
-### 📝 نظرة عامة
-المشروع ده هدفه تحليل بيانات مبيعات متجر إلكتروني (E-commerce) عشان نطلع بمعلومات تساعد صاحب المتجر ياخد قرارات صح.
-
-### 🎯 الأهداف الأساسية:
-* **تحليل المنتجات:** معرفة أكتر المنتجات مبيعاً وأكثرها ربحاً.
-* **التحليل الجغرافي:** تحديد أكتر الدول اللي بتشتري من المتجر.
-* **تحليل الأرباح:** حساب صافي الأرباح ومتابعة نمو المبيعات.
-* **بيانات العملاء:** تنظيم بيانات العملاء (الأرقام، العناوين، الإيميلات) لسهولة التواصل.
-
-### 🛠️ الأدوات المستخدمة:
-* **Excel:** تنظيف البيانات وعمل الـ Pivot Tables والـ Dashboard.
-* **SQL:** (قريباً) لعمل استعلامات متقدمة على قواعد البيانات.
+## 📊 Project Intelligence
+**Pentalyze** provides a deep-dive analysis into E-commerce performance, bridging the gap between historical data and future profitability.
 
 ---
 
-[⬆️ العودة للأعلى](#-e-commerce-sales-analysis-project)
+[⬆️ Back to Orbit](#-e-commerce-sales-analysis)
