@@ -91,7 +91,7 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
       <img src="https://avatars.githubusercontent.com/u/225244093?v=4" width="120px" style="border: 2px solid #000;" alt="ROAA"/>
       </a><br />
       <b>Name:</b> Roaa Abd-Elbar<br />
-      <b>Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=@gmail.com">@gmail.com</a><br />
+      <b>Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=roaaabdalbar@gmail.com">RoaaaAbdAlbar@gmail.com</a><br />
       <b>Phone:</b> <a href="https://wa.me/201091284242">+20 109 128 4242</a><br />
       <b>linked In:</b> <a href="https://www.linkedin.com/in/roaa-abd-el-bar">Roaa Abd El-bar</a>
     </td>
