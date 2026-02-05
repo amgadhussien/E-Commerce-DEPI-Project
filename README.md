@@ -3,7 +3,7 @@
 ### 📍 Quick Navigation:
 * [📊 Project Overview](#-project-overview)
 * [🚀 Project Scope & Execution](#-project-scope--execution)
-* [🛠️ Crew Missions](#-crew-mission)
+* [🛠️ Crew Missions](#-crew-missions)
 * [👥 Contact Info](#-contact-info)
   
 ---
