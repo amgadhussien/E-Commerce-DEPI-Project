@@ -87,16 +87,20 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
       <b>linked In:</b> <a href="https://www.linkedin.com/in/ahmed-al-qattawi-19893630a">Ahmed ALqattawi</a>
     </td>
         <td align="center" valign="top" width="300px">
-      <img src="https://ui-avatars.githubusercontent.com/api/?name=Roaa+Abd+Elbar&background=random" width="120px" style="border: 2px solid #000;" alt="ROAA"/><br />
+      <a href="https://github.com/RoaaAbdElbar" target="_blank">
+      <img src="https://avatars.githubusercontent.com/u/225244093?v=4" width="120px" style="border: 2px solid #000;" alt="ROAA"/>
+      </a><br />
       <b>Name:</b> Roaa Abd-Elbar<br />
-       <b>Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=@gmail.com">@gmail.com</a><br />
+      <b>Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=@gmail.com">@gmail.com</a><br />
       <b>Phone:</b> <a href="https://wa.me/201091284242">+20 109 128 4242</a><br />
       <b>linked In:</b> <a href="https://www.linkedin.com/in/roaa-abd-el-bar">Roaa Abd El-bar</a>
     </td>
     <td align="center" valign="top" width="300px">
-      <img src="https://ui-avatars.githubusercontent.com/api/?name=Omnia+Elsaeed&background=random" width="120px" style="border: 2px solid #000;" alt="OMNIA"/><br />
+      <a href="https://github.com/OmniaElsaeed" target="_blank">
+      <img src="https://avatars.githubusercontent.com/u/191654470?v=4" width="120px" style="border: 2px solid #000;" alt="OMNIA"/>
+      </a><br />
       <b>Name:</b> Omnia Elsaeed<br />
-       <b>Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=@gmail.com">@gmail.com</a><br />
+      <b>Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=@gmail.com">@gmail.com</a><br />
       <b>Phone:</b> <a href="https://wa.me/201140919895">+20 114 091 9895</a><br />
       <b>linked In:</b> <a href="https://www.linkedin.com/in/omnia-elsaeed-045891296">Omnia Elsaeed</a>
     </td>
