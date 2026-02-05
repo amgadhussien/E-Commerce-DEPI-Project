@@ -65,7 +65,7 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
      <td align="center" valign="top" width="300px">
       <a href="https://github.com/amgadhussien" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/158610419?v=4" width="120px" style="border: 2px solid #000;" alt="AMGAD"/>
-      </a>
+      </a><br />
       <b>Name:</b> Amgad Hussien<br />
       <b>Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=AmgadHussien.DA@gmail.com">AmgadHussien.DA@gmail.com</a><br />
       <b>Phone:</b> <a href="https://wa.me/201553918594">+20 155 391 8594</a><br />
@@ -85,7 +85,13 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
       <b>Phone:</b> <a href="https://wa.me/201091284242">+20 109 128 4242</a><br />
       <b>linked In:</b> <a href="https://www.linkedin.com/in/roaa-abd-el-bar">Roaa Abd El-bar</a>
     </td>
-   
+    <td align="center" valign="top" width="300px">
+      <img src="https://ui-avatars.githubusercontent.com/api/?name=Omnia+Elsaeed&background=random" width="120px" style="border: 2px solid #000;" alt="OMNIA"/><br />
+      <b>Name:</b> Omnia Elsaeed<br />
+       <b>Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=@gmail.com">@gmail.com</a><br />
+      <b>Phone:</b> <a href="https://wa.me/201140919895">+20 114 091 9895</a><br />
+      <b>linked In:</b> <a href="https://www.linkedin.com/in/omnia-elsaeed-045891296">Omnia Elsaeed</a>
+    </td>
     
   </tr>
 
