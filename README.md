@@ -3,7 +3,9 @@
 ### 📍 Quick Navigation:
 * [📊 Project Overview](#-project-overview)
 * [🚀 Project Scope & Execution](#-project-scope--execution)
+* [🛠️ Crew Missions](#-crew-mission)
 * [👥 Contact Info](#-contact-info)
+  
 ---
 
 ## 📊 Project Overview
@@ -47,6 +49,7 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
 | 5 | **Omnia Elsaeed** | ⛓️ Data Modeling | Designing scalable data schemas to support complex business logic. |
 
 <br><br><br><br><br><br><br><br><br><br>
+
 ---
 
 ## 👥 Contact info
