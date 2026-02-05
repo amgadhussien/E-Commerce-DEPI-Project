@@ -59,10 +59,12 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
 
 > **Five minds, one vision.**
 
-<table align="center">
+ <table align="center">
   <tr>
      <td align="center" valign="top" width="300px">
-      <img src="https://ui-avatars.githubusercontent.com/api/?name=Romisaa+Ahmed&background=random" width="120px" style="border: 2px solid #000;" alt="ROMISAA"/><br />
+      <a href="https://github.com/Romisaahmed" target="_blank">
+      <img src="https://avatars.githubusercontent.com/u/259110750?v=4" width="120px" style="border: 2px solid #000;" alt="AMGAD"/>
+      </a><br />
       <b>Name:</b> Romisaa Ahmed<br />
        <b>Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=romysaaahmed307@gmail.com">RomysaaAhmed307@gmail.com</a><br />
       <b>Phone:</b> <a href="https://wa.me/201022132252">+20 102 213 2252</a><br />
