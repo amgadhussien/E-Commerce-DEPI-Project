@@ -68,7 +68,7 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
       <b>Phone:</b> <a href="https://wa.me/201022132252">+20 102 213 2252</a><br />
       <b>linked In:</b> <a href="https://www.linkedin.com/in/romisaa-ahmed-">Romisaa Ahmed</a>
     </td>
-     <td align="center" valign="top" width="300px">
+     <td align="left" valign="top" width="300px">
       <a href="https://github.com/amgadhussien" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/158610419?v=4" width="120px" style="border: 2px solid #000;" alt="AMGAD"/>
       </a><br />
