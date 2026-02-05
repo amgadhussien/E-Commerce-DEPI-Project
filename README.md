@@ -59,7 +59,7 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
       <img src="https://ui-avatars.githubusercontent.com/api/?name=Romisaa+Ahmed&background=random" width="120px" style="border: 2px solid #000;" alt="ROMISAA"/><br />
       <b>Name:</b> Romisaa Ahmed<br />
        <b>Email:</b> <a href="mailto:romysaaahmed307@gmail.com">RomysaaAhmed307@gmail.com</a><br />
-      <b>Phone:</b> <a href="https://wa.me/⁦201022132252⁩">⁦+20 102 213 2252⁩</a><br />
+      <b>Phone:</b> <a href="https://wa.me/⁦201022132252">⁦+20 102 213 2252⁩</a><br />
       <b>linked In:</b> <a href="https://www.linkedin.com/in/romisaa-ahmed-">Romisaa Ahmed</a>
     </td>
     <td align="center" valign="top" width="300px">
