@@ -94,16 +94,6 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
     </td>
     
   </tr>
-<td align="left" valign="top" width="300px">
-  <a href="https://github.com/amgadhussien" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/158610419?v=4" width="120px" style="border: 2px solid #000;" alt="AMGAD"/>
-  </a>
-  <br />
-  <b>NAME:</b> AMGAD HUSSIEN<br />
-  <b>PHONE:</b> <a href="https://wa.me/201553918584">+20 155 391 8584</a><br />
-  <b>EMAIL:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=AmgadHussien.DA@gmail.com">AMGADHUSSIEN.DA@GMAIL.COM</a><br />
-  <b>IN:</b> <a href="https://www.linkedin.com/in/amgadhussien-da">AMGAD HUSSIEN</a>
-</td>
 
   
 </table>
