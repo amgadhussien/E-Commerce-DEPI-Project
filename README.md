@@ -72,7 +72,9 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
       <b>linked In:</b> <a href="https://www.linkedin.com/in/amgadhussien-da">Amgad Hussien</a>
     </td>
     <td align="center" valign="top" width="300px">
-      <img src="https://avatars.githubusercontent.com/u/259484457?v=4" width="120px" style="border: 2px solid #000;" alt="AHMED"/><br />
+      <a href="https://github.com/ahmedalqattawi560" target="_blank">
+      <img src="https://avatars.githubusercontent.com/u/259484457?v=4" width="120px" style="border: 2px solid #000;" alt="AHMED"/>
+      </a><br />      
       <b>Name:</b> Ahmed ALqattawi<br />
       <b>Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=AhmdAlqattawi208@gmail.com">AhmdAlqattawi208@gmail.com</a><br />
       <b>Phone:</b> <a href="https://wa.me/201225760963">+20 122 576 0963</a><br />
