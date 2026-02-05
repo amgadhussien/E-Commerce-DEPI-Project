@@ -3,7 +3,7 @@
 ### 📍 Quick Navigation:
 * [📊 Project Overview](#-project-overview)
 * [🚀 Project Scope & Execution](#-project-scope--execution)
-* [👥 Contact Information](#-contact-info)
+* [👥 Contact Info](#-contact-info)
 ---
 
 ## 📊 Project Overview
@@ -49,7 +49,7 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
 <br><br><br><br><br><br><br><br><br><br>
 ---
 
-## 👥 Contect info
+## 👥 Contact info
 
 > **Five minds, one vision.**
 
