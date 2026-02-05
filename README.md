@@ -3,7 +3,7 @@
 ### 📍 Quick Navigation:
 * [📊 Project Overview](#-project-overview)
 * [🚀 Project Scope & Execution](#-project-scope--execution)
-* [🛠️ Crew Missions](#-crew-missions)
+* [🛠️ Crew Missions](#crew-missions)
 * [👥 Contact Info](#-contact-info)
 ---
 
@@ -37,7 +37,8 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
 
 ---
 
-## 🛠️ Crew Missions
+<a name="crew-missions"></a>
+### 🛠️ Crew Missions:
 
 > Every Role And Mission For Members :
 
