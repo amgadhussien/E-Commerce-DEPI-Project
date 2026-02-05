@@ -1,2 +1,2 @@
 ## Contributors
-* [Name 1](https://github.com/ahmedalqattawi560)
+* [ahmedalqattawi](https://github.com/ahmedalqattawi560)
