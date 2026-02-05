@@ -9,6 +9,7 @@
 ---
 
 ## 📊 Project Overview
+
 This project provides a 360-degree analysis of E-commerce operations, moving from raw transaction logs to strategic business intelligence. We address the entire data lifecycle: ensuring data integrity, architecting relational models, and uncovering the underlying patterns that drive market success. The goal is to bridge the gap between "having data" and "having answers," transforming messy sales records into a clear
 
 
@@ -25,6 +26,7 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
 ---
 
 ## 🚀 Project Scope & Execution
+
 > This project is designed to mirror the high-stakes environment of **E-commerce Data Operations**. We simulate the end-to-end workflow of retail data analysts, tackling real-world data challenges through the following phases:
 
 * **🏗️ Database Architecture:** Engineering a robust relational environment from raw, messy inventory datasets to simulate a live production database.
@@ -37,6 +39,7 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
 ---
 
 ## 🛠️ Crew Missions
+
 > Every Role And Mission For Members :
 
 
