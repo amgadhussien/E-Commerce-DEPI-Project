@@ -5,7 +5,6 @@
 * [🚀 Project Scope & Execution](#-project-scope--execution)
 * [🛠️ Crew Missions](#-crew-missions)
 * [👥 Contact Info](#-contact-info)
-  
 ---
 
 ## 📊 Project Overview
