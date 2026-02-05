@@ -3,7 +3,7 @@
 ### 📍 Quick Navigation:
 * [📊 Project Overview](#-project-overview)
 * [🚀 Project Scope & Execution](#-project-scope--execution)
-* [👥 Meet Our Team](#-contributors)
+* [👥 Contact Information](#-contact-information)
 ---
 
 ## 📊 Project Overview
@@ -45,52 +45,59 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
 | 3 | **Ahmed Alqattawi** | 🎨 Viz Wizard | Transforming complex analysis into stunning, intuitive visual dashboards. |
 | 4 | **Roaa Abd El-bar** | 🛠️ Data Modeling | Architecting the relational structures and ensuring seamless data flow. |
 | 5 | **Omnia Elsaeed** | ⛓️ Data Modeling | Designing scalable data schemas to support complex business logic. |
+
 <br><br><br><br><br><br><br><br><br><br>
 ---
 
 ## 👥 Contect info
+
 > **Five minds, one vision.**
 
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="#"><img src="https://ui-avatars.githubusercontent.com/api/?name=Romisaa+Ahmed&background=random&size=150" width="100px;" style="border-radius:50%;"/><br /><sub><b>Romisaa Ahmed</b></sub></a>
+     <td align="center" valign="top" width="300px">
+      <img src="https://ui-avatars.githubusercontent.com/api/?name=Romisaa+Ahmed&background=random" width="120px" style="border: 2px solid #000;" alt="ROMISAA"/><br />
+      <b>Name:</b> Romisaa Ahmed<br />
+       <b>Email:</b> <a href="mailto:romysaaahmed307@gmail.com">RomysaaAhmed307@gmail.com</a><br />
+      <b>Phone:</b> <a href="https://wa.me/⁦201022132252⁩">⁦+20 102 213 2252⁩</a><br />
+      <b>linked In:</b> <a href="https://www.linkedin.com/in/romisaa-ahmed-">Romisaa Ahmed</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/amgadhussien">
-        <img src="https://avatars.githubusercontent.com/u/158610419?v=4" width="100px;" style="border-radius:50%;" alt="Amgad"/><br />
-        <sub><b>Amgad Hussien</b></sub>
-      </a>
+    <td align="center" valign="top" width="300px">
+      <img src="https://avatars.githubusercontent.com/u/158610419?v=4" width="120px" style="border: 2px solid #000;" alt="AMGAD"/><br />
+      <b>Name:</b> Amgad Hussien<br />
+       <b>Email:</b> <a href="mailto:AmgadHussien.DA@gmail.com">AmgadHussien.DA@gmail.com</a><br />
+      <b>Phone:</b> <a href="https://wa.me/201553918584">+20 155 391 8584</a><br />
+      <b>linked In:</b> <a href="https://www.linkedin.com/in/amgadhussien-da">Amgad Hussien</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/ahmedalqattawi560">
-        <img src="https://avatars.githubusercontent.com/u/259484457?v=4" width="100px;" style="border-radius:50%;" alt="Ahmed"/><br />
-        <sub><b>Ahmed Alqattawi</b></sub>
-      </a>
+    <td align="center" valign="top" width="300px">
+      <img src="https://avatars.githubusercontent.com/u/259484457?v=4" width="120px" style="border: 2px solid #000;" alt="AHMED"/><br />
+      <b>Name:</b> Ahmed ALqattawi<br />
+      <b>Email:</b> <a href="mailto:AhmdAlqattawi208@gmail.com">AhmdAlqattawi208@gmail.com</a><br />
+      <b>Phone:</b> <a href="https://wa.me/201225760963">+20 122 576 0963</a><br />
+      <b>linked In:</b> <a href="https://www.linkedin.com/in/ahmed-al-qattawi-19893630aL">Ahmed ALqattawi</a>
     </td>
-    <td align="center">
-      <a href="#"><img src="https://ui-avatars.githubusercontent.com/api/?name=Roaa+AbdElbar&background=random&size=150" width="100px;" style="border-radius:50%;"/><br /><sub><b>Roaa Abd El-bar</b></sub></a>
+        <td align="center" valign="top" width="300px">
+      <img src="https://ui-avatars.githubusercontent.com/api/?name=Roaa+Abd+Elbar&background=random" width="120px" style="border: 2px solid #000;" alt="ROAA"/><br />
+      <b>Name:</b> Roaa Abd-Elbar<br />
+       <b>Email:</b> <a href="mailto:@gmail.com">@gmail.com</a><br />
+      <b>Phone:</b> <a href="https://wa.me/201091284242">+20 109 128 4242</a><br />
+      <b>linked In:</b> <a href="https://www.linkedin.com/in/roaa-abd-el-bar">Roaa Abd El-bar</a>
     </td>
-    <td align="center">
-      <a href="#"><img src="https://ui-avatars.githubusercontent.com/api/?name=Omnia+Elsaeed&background=random&size=150" width="100px;" style="border-radius:50%;"/><br /><sub><b>Omnia Elsaeed</b></sub></a>
+    <td align="center" valign="top" width="300px">
+      <img src="https://ui-avatars.githubusercontent.com/api/?name=Omnia+Elsaeed&background=random" width="120px" style="border: 2px solid #000;" alt="OMNIA"/><br />
+      <b>Name:</b> Omnia Elsaeed<br />
+       <b>Email:</b> <a href="mailto:@gmail.com">@gmail.com</a><br />
+      <b>Phone:</b> <a href="https://wa.me/201140919895">+20 114 091 9895</a><br />
+      <b>linked In:</b> <a href="https://www.linkedin.com/in/omnia-elsaeed-045891296">Omnia Elsaeed</a>
     </td>
+    
   </tr>
+
+
+  
 </table>
 
-<br>
-
----
-<td align="center">
-  <a href="https://github.com/amgadhussien">
-    <img src="https://avatars.githubusercontent.com/u/158610419?v=4" width="100px;" style="border-radius:50%;" alt="Amgad"/><br />
-    <sub><b>Amgad Hussien</b></sub>
-  </a><br />
-  <sub>
-    <a href="https://wa.me/+20 155 391 8594">📞</a> | 
-    <a href="mailto:amgadhussien.da@gmail.com">📧</a> | 
-    <a href="https://linkedin.com/in/amgadhussien-da">🔗</a>
-  </sub>
-</td>
 ---
 
 [⬆️ Back to Top](#-e-commerce-sales-analysis)
+
