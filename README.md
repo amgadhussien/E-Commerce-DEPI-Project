@@ -58,7 +58,7 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
      <td align="center" valign="top" width="300px">
       <img src="https://ui-avatars.githubusercontent.com/api/?name=Romisaa+Ahmed&background=random" width="120px" style="border: 2px solid #000;" alt="ROMISAA"/><br />
       <b>Name:</b> Romisaa Ahmed<br />
-       <b>Email:</b> <a href="mailto:romysaaahmed307@gmail.com">RomysaaAhmed307@gmail.com</a><br />
+       <b>Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=romysaaahmed307@gmail.com">RomysaaAhmed307@gmail.com</a><br />
       <b>Phone:</b> <a href="https://wa.me/201022132252">+20 102 213 2252</a><br />
       <b>linked In:</b> <a href="https://www.linkedin.com/in/romisaa-ahmed-">Romisaa Ahmed</a>
     </td>
@@ -72,21 +72,21 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
     <td align="center" valign="top" width="300px">
       <img src="https://avatars.githubusercontent.com/u/259484457?v=4" width="120px" style="border: 2px solid #000;" alt="AHMED"/><br />
       <b>Name:</b> Ahmed ALqattawi<br />
-      <b>Email:</b> <a href="mailto:AhmdAlqattawi208@gmail.com">AhmdAlqattawi208@gmail.com</a><br />
+      <b>Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=AhmdAlqattawi208@gmail.com">AhmdAlqattawi208@gmail.com</a><br />
       <b>Phone:</b> <a href="https://wa.me/201225760963">+20 122 576 0963</a><br />
       <b>linked In:</b> <a href="https://www.linkedin.com/in/ahmed-al-qattawi-19893630a">Ahmed ALqattawi</a>
     </td>
         <td align="center" valign="top" width="300px">
       <img src="https://ui-avatars.githubusercontent.com/api/?name=Roaa+Abd+Elbar&background=random" width="120px" style="border: 2px solid #000;" alt="ROAA"/><br />
       <b>Name:</b> Roaa Abd-Elbar<br />
-       <b>Email:</b> <a href="mailto:@gmail.com">@gmail.com</a><br />
+       <b>Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=@gmail.com">@gmail.com</a><br />
       <b>Phone:</b> <a href="https://wa.me/201091284242">+20 109 128 4242</a><br />
       <b>linked In:</b> <a href="https://www.linkedin.com/in/roaa-abd-el-bar">Roaa Abd El-bar</a>
     </td>
     <td align="center" valign="top" width="300px">
       <img src="https://ui-avatars.githubusercontent.com/api/?name=Omnia+Elsaeed&background=random" width="120px" style="border: 2px solid #000;" alt="OMNIA"/><br />
       <b>Name:</b> Omnia Elsaeed<br />
-       <b>Email:</b> <a href="mailto:@gmail.com">@gmail.com</a><br />
+       <b>Email:</b> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=@gmail.com">@gmail.com</a><br />
       <b>Phone:</b> <a href="https://wa.me/201140919895">+20 114 091 9895</a><br />
       <b>linked In:</b> <a href="https://www.linkedin.com/in/omnia-elsaeed-045891296">Omnia Elsaeed</a>
     </td>
