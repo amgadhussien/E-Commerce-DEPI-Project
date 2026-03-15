@@ -12,36 +12,23 @@
 
 
 ## 1.🔍 Project Summary
-
-
-
-
-
-<br><br><br><br><br><br><br><br><br><br>
-
-
+This project focuses on developing a high-impact Business Intelligence (BI) solution that transforms raw e-commerce data into strategic assets. By integrating four critical business domains—Sales, Marketing, Customer Behavior, and Product Management—the project demonstrates how data modeling can uncover hidden patterns in profitability and acquisition efficiency. The final deliverable will be an interactive executive dashboard that enables real-time tracking of growth metrics and operational health, providing a comprehensive "Command Center" for digital retail management.
 ---
 
 ## 2.📊 Project Overview
 
-This project provides a 360-degree analysis of E-commerce operations, moving from raw transaction logs to strategic business intelligence. We address the entire data lifecycle: ensuring data integrity, architecting relational models, and uncovering the underlying patterns that drive market success. The goal is to bridge the gap between "having data" and "having answers," transforming messy sales records into a clear
-
-
-<br><br><br><br><br><br><br><br><br><br>
+The primary objective of this project is to build an integrated Business Intelligence (BI) framework to analyze the operational and financial performance of an E-commerce business. By synthesizing data from multiple functional areas—sales, marketing, customers, and product catalogs—the project aims to provide actionable insights that optimize profitability and customer acquisition strategies.
 
 ---
 
 ## 3.📁 Dataset Overview
-- **Source**: [Provide dataset reference or link]
-- **Volume**: ~[Number] records across multiple dimensions
+- **Source**: https://www.kaggle.com/datasets/kushsheth/kshashtra-ecommerce-store-martking-and-sales?select=orders.csv
+- **Volume**: ~30,000+ transaction records with multi-year historical coverage.
 - **Primary Attributes**:
-  - **Financial Metrics**: 
-  - **Operational Data**: 
-  - **Customer Insights**: 
-  - **Sales & Marketing**: 
-  - **Machine Learning Features**: 
-
-<br><br><br><br><br><br><br><br><br><br>
+  - **Financial Metrics**: Gross and Net Order Value, Unit Costs, MRP (Maximum Retail Price), Discount Percentages (₹ + %), and Profit Margin per SKU.
+  - **Operational Data**: Order fulfillment status (Delivered, Returned, RTO), SKU categorization, and Vendor-level performance tracking.
+  - **Customer Insights**: Unique Customer IDs, Acquisition Channels (First-touch), City/Tier demographics, and Purchase Frequency (First vs. Repeat).
+  - **Sales & Marketing**: Ad Spend per campaign, Reach, Impressions, Click-Through Rates (CTR), ROAS, and Campaign-level conversion values.
 
 ---
 
@@ -54,7 +41,6 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
 * **🧹 Data Sanitation:** Implementing rigorous cleaning pipelines to resolve null values, eliminate invalid entries, and standardize financial metrics.
 * **📊 Business Intelligence (SQL):** Constructing complex, business-driven queries to extract high-level insights regarding stock health, revenue streams, and inventory optimization.
 
-<br><br><br><br><br><br><br><br><br><br>
 
 ---
 
@@ -71,8 +57,6 @@ This project provides a 360-degree analysis of E-commerce operations, moving fro
 | 3 | **Ahmed Alqattawi** | 🎨 Viz Wizard | Transforming complex analysis into stunning, intuitive visual dashboards. |
 | 4 | **Roaa Abd El-bar** | 🛠️ Data Modeling | Architecting the relational structures and ensuring seamless data flow. |
 | 5 | **Omnia Elsaeed** | ⛓️ Data Modeling | Designing scalable data schemas to support complex business logic. |
-
-<br><br><br><br><br><br><br><br><br><br>
 
 ---
 
