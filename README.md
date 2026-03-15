@@ -12,7 +12,9 @@
 
 
 ## 1.🔍 Project Summary
+
 This project focuses on developing a high-impact Business Intelligence (BI) solution that transforms raw e-commerce data into strategic assets. By integrating four critical business domains—Sales, Marketing, Customer Behavior, and Product Management—the project demonstrates how data modeling can uncover hidden patterns in profitability and acquisition efficiency. The final deliverable will be an interactive executive dashboard that enables real-time tracking of growth metrics and operational health, providing a comprehensive "Command Center" for digital retail management.
+
 ---
 
 ## 2.📊 Project Overview
@@ -117,7 +119,6 @@ The primary objective of this project is to build an integrated Business Intelli
   
 </table>
 
-<br><br><br><br><br><br><br><br><br><br>
 
 ---
 
